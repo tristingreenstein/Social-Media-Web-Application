@@ -1,0 +1,29 @@
+{
+    "name": "@types/bcrypt-nodejs",
+    "version": "0.0.31",
+    "description": "TypeScript definitions for bcrypt-nodejs",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "David Broder-Rodgers",
+            "url": "https://github.com/DavidBR-SW",
+            "githubUsername": "DavidBR-SW"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/bcrypt-nodejs"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "4893b1a0e1dd54be9cea8e40ce5e6483841821b5a0b44e9a6c73fc1c3ad38bd3",
+    "typeScriptVersion": "2.8"
+}

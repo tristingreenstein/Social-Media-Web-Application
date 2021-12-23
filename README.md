@@ -1,6 +1,8 @@
 # Social-Media-Web-App
 ## Project
 ###### Social Media Web Application
+NOTE ENV KEYS HAVE BEEN STRIPPED, MUST USE OWN KEYS IN ENV AND PROXY INSIDE PACKAGE.JSON
+
 Social media web application clone along the lines of Signal, Facebook, and Twitter. This will include functionality of posting, commenting, and sharing other user’s posts, user authentication, notifications, and private messaging.
 Using React we will able to develope our website, as well as using Node.js to handle package management.
 ## Technical Goals
@@ -15,9 +17,6 @@ Users' data will be stored in a database(MongoDB tentatively) to allow for recal
 ###### Notifications:
 Users will be notified through email and or browser for comments or shares on an existing post.
 Users can turn on or off notifications on publication of posts.
-###### Private Messaging(If time allows it):
-Users will be able to contact other registered members outside of their posts in a private interface.
-Users' messages will be stored in the database and retrieved for interaction.
 ## Languages/Frameworks
 React.js
 REST API
